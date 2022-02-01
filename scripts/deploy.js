@@ -12,5 +12,3 @@ async function main() {
       console.error(error);
       process.exit(1);
     });
-
-    // 0xFEe9055982208427899859C2551c28c41f1E3b39 [Contract address]
